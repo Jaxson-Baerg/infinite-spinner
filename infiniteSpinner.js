@@ -1,4 +1,3 @@
-
 let spinner;
 const infiniteSpinner = () => {
   const animations = ["|", "/", "-", "\\"];
